@@ -1,0 +1,9 @@
+C:\Users\Jeremy\Desktop\RubixCube\RubixCube\bin\Debug\RubixCube.exe.config
+C:\Users\Jeremy\Desktop\RubixCube\RubixCube\bin\Debug\RubixCube.exe
+C:\Users\Jeremy\Desktop\RubixCube\RubixCube\bin\Debug\RubixCube.pdb
+C:\Users\Jeremy\Desktop\RubixCube\RubixCube\obj\Debug\RubixCube.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\RubixCube\RubixCube\obj\Debug\RubixCube.Properties.Resources.resources
+C:\Users\Jeremy\Desktop\RubixCube\RubixCube\obj\Debug\RubixCube.csproj.GenerateResource.cache
+C:\Users\Jeremy\Desktop\RubixCube\RubixCube\obj\Debug\RubixCube.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\RubixCube\RubixCube\obj\Debug\RubixCube.exe
+C:\Users\Jeremy\Desktop\RubixCube\RubixCube\obj\Debug\RubixCube.pdb
